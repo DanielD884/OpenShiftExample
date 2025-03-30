@@ -1,0 +1,12 @@
+{
+  "name": "handball-stats",
+  "version": "1.0.0",
+  "description": "Handball Statistik Web-App für OpenShift Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

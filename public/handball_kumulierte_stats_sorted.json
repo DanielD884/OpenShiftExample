@@ -1,0 +1,2180 @@
+[
+  {
+    "name": "Mika Kalmbach",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Oliver Spengel",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 17,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.83
+  },
+  {
+    "name": "Alexander Sondowsky",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Rouven Stoll",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.33
+  },
+  {
+    "name": "Mathias Schäfer",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 5,
+    "gesamt_karten": 3,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 0.86
+  },
+  {
+    "name": "Mattis Zorn",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.67
+  },
+  {
+    "name": "Julian Mark Wiesner",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 11,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 11.0
+  },
+  {
+    "name": "Aaron Rißmann",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 13,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 1.86
+  },
+  {
+    "name": "Florian Matenaer",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 13,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.44
+  },
+  {
+    "name": "Jonathan Benz",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 9.0
+  },
+  {
+    "name": "Sebastian Schäfer",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 4,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 0.78
+  },
+  {
+    "name": "Noah Bryant",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Moritz Ambacher",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 21,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 4.2
+  },
+  {
+    "name": "Janis Biebl",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 12,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 2.4
+  },
+  {
+    "name": "Tobias Bäuchle",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 30,
+    "gesamt_2_minuten": 5,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 3.75
+  },
+  {
+    "name": "Dennis Weber",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 17,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 2.12
+  },
+  {
+    "name": "Philipp John",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 0.8
+  },
+  {
+    "name": "Finn Hillegaart",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 28,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 3.11
+  },
+  {
+    "name": "Tim Blankenburg",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Mario Neu",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 1.25
+  },
+  {
+    "name": "Manuel Hoyler",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Mika Hillegaart",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.25
+  },
+  {
+    "name": "Kai Bönisch",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 39,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 4.33
+  },
+  {
+    "name": "Timo Haid",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 64,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 7.11
+  },
+  {
+    "name": "Bastian Klett",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 37,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 6.17
+  },
+  {
+    "name": "Frederik Kiedaisch",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.88
+  },
+  {
+    "name": "Felix Pöschko",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Björn Mönch",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Sebastian Puskas",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 30,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 3.33
+  },
+  {
+    "name": "Ingo Jablonski",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.33
+  },
+  {
+    "name": "Hagen Braunwarth",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 17,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.83
+  },
+  {
+    "name": "Marcel Jan Birkmaier",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Finke Resch",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 17,
+    "gesamt_2_minuten": 5,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.89
+  },
+  {
+    "name": "Jonas Herdin",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 3.0
+  },
+  {
+    "name": "Kai Hörz",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Martin Wannenwetsch",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tom Michler",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 46,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 5.75
+  },
+  {
+    "name": "Jochen Neusser",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Maxim Heubach",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Elias Kiesthardt",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 74,
+    "gesamt_2_minuten": 5,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 9.25
+  },
+  {
+    "name": "Victor Paculea",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 1.12
+  },
+  {
+    "name": "Sergiu Paculea",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Joris Gehring",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 28,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Sven Traub",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 34,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 5.67
+  },
+  {
+    "name": "Henry Lindorfer",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.67
+  },
+  {
+    "name": "Benjamin Nebel",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Marc Karpischek",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 21,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 7.0
+  },
+  {
+    "name": "Heiko Leutz",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 13,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.44
+  },
+  {
+    "name": "Tobias Griffith",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Mario Ott",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 0.29
+  },
+  {
+    "name": "Timo Reck",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 11,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 3.67
+  },
+  {
+    "name": "Marius Schweiger",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 5,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.11
+  },
+  {
+    "name": "Jan Riegl",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Mario Ohnewald",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 34,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 4.86
+  },
+  {
+    "name": "Manuel Mauch",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Oliver Stahl",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 2.5
+  },
+  {
+    "name": "Markus Kissling",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Björn Schwarz",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.25
+  },
+  {
+    "name": "Steffen Heimsch",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Lukas Bernhardt",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.25
+  },
+  {
+    "name": "Jonas Wölfle",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.67
+  },
+  {
+    "name": "Marco Bosch",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.62
+  },
+  {
+    "name": "Ingo Marquordt",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 0.88
+  },
+  {
+    "name": "Baris Aslaner",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 18,
+    "gesamt_2_minuten": 8,
+    "gesamt_karten": 5,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Lewin Hoffmann",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.67
+  },
+  {
+    "name": "Christian Edinger",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 3,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 1.29
+  },
+  {
+    "name": "Sven Willmann",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 0.11
+  },
+  {
+    "name": "Robin Weiß",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 23,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 3.83
+  },
+  {
+    "name": "Michael Nowak",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.25
+  },
+  {
+    "name": "Einar Lück",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 15,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.5
+  },
+  {
+    "name": "Patrick Enger",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 65,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 7.22
+  },
+  {
+    "name": "Lennart Ihle",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 34,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 5.67
+  },
+  {
+    "name": "Max Hirschmann",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 19,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 2.71
+  },
+  {
+    "name": "Philipp Kappelmann",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.67
+  },
+  {
+    "name": "Jakob Swietlik",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 25,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 11,
+    "durchschnitt_tore": 2.27
+  },
+  {
+    "name": "Edgar Möllenberg",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 23,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 2.55
+  },
+  {
+    "name": "Alexander Hammerle",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 10,
+    "durchschnitt_tore": 0.5
+  },
+  {
+    "name": "Niklas Hempelmann",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 37,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 3,
+    "spiele_gespielt": 11,
+    "durchschnitt_tore": 3.36
+  },
+  {
+    "name": "Julian Weidmann",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 17,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.89
+  },
+  {
+    "name": "Daniel Hammerle",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Peter Kappelmann",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Francesco Ganz",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 49,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 4,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 5.44
+  },
+  {
+    "name": "Dirk Beisel",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 0.29
+  },
+  {
+    "name": "Frank Heckroth",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 14,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Tom Grabler",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 1.25
+  },
+  {
+    "name": "Mario Dudt",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.25
+  },
+  {
+    "name": "Felix Ruyter",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 11,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 10,
+    "durchschnitt_tore": 1.1
+  },
+  {
+    "name": "Kiriakos Stratis",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.33
+  },
+  {
+    "name": "Jonas Tim Prasch",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 33,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 4.71
+  },
+  {
+    "name": "Pascal Drexler",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.75
+  },
+  {
+    "name": "Christian Simader",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Simon Jäggle",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 26,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 8.67
+  },
+  {
+    "name": "Ole Valentin Schilski",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 52,
+    "gesamt_2_minuten": 8,
+    "gesamt_karten": 4,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 5.78
+  },
+  {
+    "name": "Lars Spahr",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tim Haußmann",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 16,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 2.29
+  },
+  {
+    "name": "Tom Rödel",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Jens Buchholz",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Fabio Campitelli",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Frederik Franke",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Jan-Lüder Frick",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 11,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.83
+  },
+  {
+    "name": "Thomas Pohl",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.25
+  },
+  {
+    "name": "Adrian Planz",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Christoph Einselen",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 26,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 4.33
+  },
+  {
+    "name": "Niklas Beller",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Christoph Reichle",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "David Annen",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.2
+  },
+  {
+    "name": "Lars Kirchner",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 2.33
+  },
+  {
+    "name": "Jan Fischer",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Maik Martin",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Mathias Härterich",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.33
+  },
+  {
+    "name": "Pascal Demark",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Sven Becher",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Sven Kälberer",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 0.4
+  },
+  {
+    "name": "Marc Fellhauer",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tim Gebhardt",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Florian Bresch",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Simon Mangold",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Marc Pisch",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 5.0
+  },
+  {
+    "name": "Raphael Schmid",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Felix Nawatny",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 19,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 4.75
+  },
+  {
+    "name": "Daniel Desgronte",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Dominik Link",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 11,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 2.75
+  },
+  {
+    "name": "Adrian Schmidt",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Finn Maier",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Moritz Häusler",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tim Haug",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.17
+  },
+  {
+    "name": "Thomas Luding",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 2.5
+  },
+  {
+    "name": "Moritz Baldauf",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 13,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 1.86
+  },
+  {
+    "name": "Stefan Luding",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.33
+  },
+  {
+    "name": "Patrick Valentin Kabitschke",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.75
+  },
+  {
+    "name": "Levin Mühleisen",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 17,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 4,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.83
+  },
+  {
+    "name": "Matthias Albrecht",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Nikolai Wagner",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 36,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Fabian Gollnisch",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 2.25
+  },
+  {
+    "name": "Luca Weimann",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 16,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Nesko Sevdic",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Henrik Burger",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 37,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 4.62
+  },
+  {
+    "name": "Thomas Barbet",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.75
+  },
+  {
+    "name": "Simon Krempler",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 51,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 6.38
+  },
+  {
+    "name": "Axel Frick",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 12,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Tobias Gölz",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 49,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 6.12
+  },
+  {
+    "name": "Felix Jochen Schwab",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 9,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Lukas Matzek",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 11,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.83
+  },
+  {
+    "name": "Léon Willy Wendling",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.8
+  },
+  {
+    "name": "Moritz Gula",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Florian Ludwig",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 28,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 5.6
+  },
+  {
+    "name": "Moritz Tropper",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 1.14
+  },
+  {
+    "name": "Paul Sinkwitz",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Alexandre Wetzel",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tim Matthis",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 6.0
+  },
+  {
+    "name": "Lukas Deuschle",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 31,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 4.43
+  },
+  {
+    "name": "Jens Ertel",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.4
+  },
+  {
+    "name": "Oliver Scholz",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 52,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 4,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 6.5
+  },
+  {
+    "name": "Simon Hermann",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Florian Nadler",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 8,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Kai Wess",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Luis Diener",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 15,
+    "gesamt_2_minuten": 7,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.5
+  },
+  {
+    "name": "Fabian Kaiser",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.5
+  },
+  {
+    "name": "Niklas Rapp",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 45,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 7.5
+  },
+  {
+    "name": "Lasse Erhart",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.83
+  },
+  {
+    "name": "Sebastian Cholewa",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 3,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.8
+  },
+  {
+    "name": "Philipp Schetter",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Mathias Rieck",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Jakob Dertinger",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.4
+  },
+  {
+    "name": "Alexander Heinz",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 21,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 4.2
+  },
+  {
+    "name": "Ben Sommer",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 18,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 4.5
+  },
+  {
+    "name": "Luca Hörnig",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Patrick Schweizer",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 12,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Krischan Pfund",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Maximilian Merkle",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 1.29
+  },
+  {
+    "name": "Lukas Junke",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 0.6
+  },
+  {
+    "name": "Daniel Ludewig",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tobias Reimann",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 3.5
+  },
+  {
+    "name": "Jochen Fischer",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Nicolai Henne",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 1.33
+  },
+  {
+    "name": "Jacob Kirchner",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 23,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 5.75
+  },
+  {
+    "name": "Marcel Keller",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 23,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 7,
+    "durchschnitt_tore": 3.29
+  },
+  {
+    "name": "Nils Biebl",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Florian Berger",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.25
+  },
+  {
+    "name": "Janis Schneider",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Michail Granidis",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Lars Schmidt",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 1.67
+  },
+  {
+    "name": "Markus Maurer",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.2
+  },
+  {
+    "name": "Niklas Dröge",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "David Baumann",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Robin Friesch",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Sebastian Eisele",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 18,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 3.6
+  },
+  {
+    "name": "Laurent Cirkin",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 0.67
+  },
+  {
+    "name": "Tobias Klett",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 0.5
+  },
+  {
+    "name": "Felix Seifried",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Markus Hermann",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Benedikt Rotter",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 12,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Quentin Werner",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 9,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 2.25
+  },
+  {
+    "name": "Björn Vetter",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 2,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.5
+  },
+  {
+    "name": "Lukas Motykiewicz",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Christian Sklar",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 18,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 6,
+    "durchschnitt_tore": 3.0
+  },
+  {
+    "name": "Lasse Harbauer",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 12,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Jörg Schiek",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Nico Grande",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Oliver Zeeb",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Julius Binner",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Manuel Fischer",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Leander Pozzi",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Michael Salzer",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 15,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 3.75
+  },
+  {
+    "name": "Emil Stahl",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 10,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 5.0
+  },
+  {
+    "name": "Vireak By Chan",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 3.0
+  },
+  {
+    "name": "Kai Hemming",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Arvid Wackermann",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Pascal Blind",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Nino Dangel",
+    "verein": "TB Neuffen 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 5,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Christoffer Zeh",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Tomislav Vincetic",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Noah Shah",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 6.0
+  },
+  {
+    "name": "André Faigle",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 2,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 0.5
+  },
+  {
+    "name": "Yann Steiner",
+    "verein": "TSV Köngen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Wincent Bader",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Maurice Loser",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 2.33
+  },
+  {
+    "name": "Benjamin Born",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Riccardo Bauer",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Marc Baier",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Johann Kaiser",
+    "verein": "TV Altbach 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Tim Lukas Bastam",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 3.0
+  },
+  {
+    "name": "Peter Kuner",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 8,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 8.0
+  },
+  {
+    "name": "Neven Zimmer",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 2,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 2.0
+  },
+  {
+    "name": "Artur Zarske",
+    "verein": "SV Vaihingen 2",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 1,
+    "spiele_gespielt": 4,
+    "durchschnitt_tore": 1.25
+  },
+  {
+    "name": "Luca Ben Zimmerningkat",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 4,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 3,
+    "durchschnitt_tore": 0.33
+  },
+  {
+    "name": "Felix Roos",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Lars Grünenwald",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Lukas Berger",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 2.5
+  },
+  {
+    "name": "Silas Drahola",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Moritz Roos",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 5,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 2.5
+  },
+  {
+    "name": "Simon Bristle",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Leon Buser",
+    "verein": "TV Plochingen 3",
+    "gesamt_tore": 4,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 4.0
+  },
+  {
+    "name": "Patrick Huttenlocher",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 6,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 2,
+    "durchschnitt_tore": 3.0
+  },
+  {
+    "name": "Marvin Steck",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 3,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 3.0
+  },
+  {
+    "name": "Tolga Ergin",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Jonas Thal",
+    "verein": "HC Wernau 2",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Christoph Späth",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Thomas Schröder",
+    "verein": "HB Filderstadt 2",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 1,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Lukas Stahl",
+    "verein": "HSG Ebersbach/Bünzwangen 3",
+    "gesamt_tore": 0,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 0.0
+  },
+  {
+    "name": "Tom Hangleiter",
+    "verein": "HSG Owen-Lenningen 3",
+    "gesamt_tore": 1,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 1.0
+  },
+  {
+    "name": "Luis Maier",
+    "verein": "SKV Unterensingen 3",
+    "gesamt_tore": 7,
+    "gesamt_2_minuten": 0,
+    "gesamt_karten": 0,
+    "spiele_gespielt": 1,
+    "durchschnitt_tore": 7.0
+  }
+]

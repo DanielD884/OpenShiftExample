@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Handball Statistik</title>
+    <link rel="icon" type="image/png" href="logo.jpg" />
+
+    <!-- Google Fonts (z.B. Poppins) -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="app-header">
+      <h1 class="app-title">🏆 Handball Statistik</h1>
+    </header>
+
+    <!-- Hauptinhalt -->
+    <main class="container">
+      <!-- Steuerbereich (Filter + Podium) -->
+      <section class="filter-podium-section">
+        <!-- Filter -->
+        <div class="filter-container">
+          <label for="verein-filter" class="sr-only">Verein auswählen</label>
+          <select id="verein-filter" class="filter-select">
+            <option value="">Alle Vereine</option>
+          </select>
+        </div>
+
+        <!-- Podium -->
+        <div
+          class="podium-container"
+          style="display: flex; justify-content: center"
+        >
+          <!-- Jede Platzierung als Card -->
+          <div class="podium-card second-place">
+            <div class="medal">🥈</div>
+            <div class="player-name" id="second-name"></div>
+          </div>
+          <div class="podium-card first-place">
+            <div class="medal">🥇</div>
+            <div class="player-name" id="first-name"></div>
+          </div>
+          <div class="podium-card third-place">
+            <div class="medal">🥉</div>
+            <div class="player-name" id="third-name"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Tabelle -->
+      <section class="table-card">
+        <table id="stats-table">
+          <thead>
+            <tr>
+              <th onclick="sortTable(0)">Name</th>
+              <th onclick="sortTable(1)">Verein</th>
+              <th onclick="sortTable(2)">Tore</th>
+              <th onclick="sortTable(3)">2-Min.</th>
+              <th onclick="sortTable(4)">Spiele</th>
+              <th onclick="sortTable(5)">Ø Tore</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Dynamischer Inhalt -->
+          </tbody>
+        </table>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>Hier könnte dein Witz stehen</p>
+    </footer>
+
+    <!-- Dein JS -->
+    <script src="script.js"></script>
+  </body>
+</html>
